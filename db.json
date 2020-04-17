@@ -1,0 +1,66 @@
+{
+  "departments": [
+    {
+        "id": 1,
+        "departmentName": "Accounting"
+    },
+    {
+        "id": 2,
+        "departmentName": "Business Development"
+    }, 
+    {
+        "id": 3,
+        "departmentName": "Customer Service"
+    }, 
+    {
+        "id": 4,
+        "departmentName": "Finance"
+    },
+    {
+        "id": 5,
+        "departmentName": "Information Technology"
+    },    
+    {
+        "id": 6,
+        "departmentName": "Marketing"
+    }                
+  ],
+  "employees": [
+    {
+        "id": 1,
+        "firstName": "Marc",
+        "lastName": "Williams",
+        "email": "mwilliams@oultoncollege.com",
+        "city": "Moncton",
+        "hireDate": "1997-09-01",
+        "department": 5
+    },
+    {
+        "id": 2,
+        "firstName": "John",
+        "lastName": "Smith",
+        "email": "jsmith@oultoncollege.com",
+        "city": "Moncton",
+        "hireDate": "2005-09-01",
+        "department": 2
+    },
+    {
+        "id": 3,
+        "firstName": "Frank",
+        "lastName": "Bekkering",
+        "email": "fbekkering@oultoncollege.com",
+        "city": "Moncton",
+        "hireDate": "1997-09-01",
+        "department": 5
+    },  
+    {
+        "id": 1,
+        "firstName": "James",
+        "lastName": "Jackson",
+        "email": "jjackson@oultoncollege.com",
+        "city": "Moncton",
+        "hireDate": "2010-09-01",
+        "department": 6
+    }     
+  ]
+}
