@@ -54,13 +54,40 @@
         "department": 5
     },  
     {
-        "id": 1,
+        "id": 4,
         "firstName": "James",
         "lastName": "Jackson",
         "email": "jjackson@oultoncollege.com",
         "city": "Moncton",
         "hireDate": "2010-09-01",
         "department": 6
-    }     
+    },
+    {
+        "id": 5,
+        "firstName": "DeAnn",
+        "lastName": "Gervais",
+        "email": "dgervais@oultoncollege.com",
+        "city": "Moncton",
+        "hireDate": "2012-09-01",
+        "department": 4
+    },
+    {
+        "id": 6,
+        "firstName": "JC",
+        "lastName": "Gaudet",
+        "email": "jcgaudet@oultoncollege.com",
+        "city": "Moncton",
+        "hireDate": "2015-09-01",
+        "department": 3
+    },
+    {
+        "id": 7,
+        "firstName": "Paul",
+        "lastName": "Poirier",
+        "email": "ppoirier@oultoncollege.com",
+        "city": "Moncton",
+        "hireDate": "2014-09-01",
+        "department": 1
+    }  
   ]
 }
